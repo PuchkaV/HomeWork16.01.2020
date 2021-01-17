@@ -19,7 +19,7 @@ public class Author {
     }
 
     void show(){
-        System.out.println("Автор: " + nameAuthor);
+        System.out.println("Автор:  " + nameAuthor);
     }
 
 }
