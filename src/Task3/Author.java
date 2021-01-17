@@ -21,4 +21,5 @@ public class Author {
     void show(){
         System.out.println("Автор: " + nameAuthor);
     }
+
 }
